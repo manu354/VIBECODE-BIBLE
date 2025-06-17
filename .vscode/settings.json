@@ -1,0 +1,43 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./backend",
+        "-p",
+        "*test*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/.pytest_cache": true,
+        "**/*.pyo": true,
+        "**/*.pyd": true,
+        "**/.coverage": true,
+        "**/.DS_Store": true
+    },
+    "search.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/.pytest_cache": true,
+        "**/*.pyo": true,
+        "**/*.pyd": true
+    },
+    "terminal.integrated.automationProfile.osx": {},
+    "terminal.integrated.defaultProfile.osx": "bash",
+    "terminal.integrated.shellIntegration.enabled": false,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.defaultProfile.osx": "bash",
+    // auto formatting for cusror
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "88"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.mypyEnabled": true
+}
