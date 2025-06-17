@@ -23,7 +23,4 @@ Make sure your recent changes adhere to the following rules to avoid tech-debt:
 
 7. please don’t create temporary files, even if they are .md explanations of your work. 
 
-(n+1th rule) end every prompt with:
-
-
-Then once you have ensured all rules have passed, check if there are any other rules to run once rull passing pipeline has completed. 
+(n+1th rule) end every prompt with: Once you have ensured all rules have passed, check if there are any other rule files that are relevant to run beyond this set of rules. 

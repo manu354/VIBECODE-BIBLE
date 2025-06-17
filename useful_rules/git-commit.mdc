@@ -9,6 +9,6 @@ Show user how to add these changes to a git commit and push, e.g. display the fo
 
 ```
 git add requirements.txt {otherchanges...}
-git commit -m "Add faster-whisper dependency for audio processing tests"
+git commit -m "{commit message}"
 git push
 ```
