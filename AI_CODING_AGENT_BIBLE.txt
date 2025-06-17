@@ -2,7 +2,7 @@ VIBE CODING RULES
 
 enforceable:
 (human should know, and agent should enforce)
-1. I WILL MAKE SURE MY AGENT AFTER WRITING ANY CODE, RUNS THE PIPELINE, AND THE STATE SAYS IN A SYSTEM OF GREEN. (only caveat to this is that sometimes it can be worth also running feedback_loop_instr at the same time if tests are not system breaking. this cld actually be bad advice. lol remove this)
+1. I WILL MAKE SURE MY AGENT AFTER WRITING ANY CODE, RUNS THE PIPELINE, AND THE STATE SAYS IN A SYSTEM OF GREEN. 
 
 2. I WILL STILL FOLLOW CONTINOUS IMPROVMENT OF THE SYSTEM, TESTABLE AND EVOLVEABLE. ANY CHANGE WILL HAVE TEST COVERAGE. 
 
