@@ -19,7 +19,7 @@ enforceable:
 8. end every prompt with 
 First confirm you understand this task, why we are doing it, and explore and think deeply to plan a good away to approach this problem before attacking it. 
 
-9. please don’t create temporary files, even if they are .md explanations of your work. 
+9. please don’t create temporary files, even if they are .md explanations of your work. Update permanent documentation instead. 
 
 human:
 - I WILL STILL ENSURE MY SYSTEM IS A JOY TO WORK ON

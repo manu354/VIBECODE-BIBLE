@@ -3,7 +3,7 @@ description: When the problem to solve is becoming complex and likely quite hard
 globs: 
 alwaysApply: false
 ---
-In addition to [problem-solving-meta-strategy.mdc](mdc:.cursor/rules/problem-solving-meta-strategy.mdc) since this is a complex problem, and may require a complex solution. 
+This is a complex problem that may require a complex solution. 
 
 Be critical about whether it is truly the right thing to do. Are we solving the right problem? 
 
